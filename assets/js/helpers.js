@@ -36,3 +36,5 @@ const formatLongDate = (date) => new Date(date).toLocaleDateString('en-US', { we
 /* Updated: 202508221925 */
 const formatDate = (date) => new Date(date).toLocaleDateString();
 /* Updated: 202508231326 */
+const formatLongDate = (date) => new Date(date).toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+/* Updated: 202508231044 */
