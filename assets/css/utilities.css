@@ -181,3 +181,7 @@
 .justify-center { justify-content: center; }
 .align-center { align-items: center; }
 /* Updated: 202510171624 */
+.d-flex { display: flex; }
+.justify-center { justify-content: center; }
+.align-center { align-items: center; }
+/* Updated: 202510171614 */
