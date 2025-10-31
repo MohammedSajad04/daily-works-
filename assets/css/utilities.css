@@ -220,3 +220,6 @@
 .justify-center { justify-content: center; }
 .align-center { align-items: center; }
 /* Updated: 202510301850 */
+.m-auto { margin: auto; }
+.text-center { text-align: center; }
+/* Updated: 202510310900 */
