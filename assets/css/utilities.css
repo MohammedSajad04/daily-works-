@@ -340,3 +340,7 @@
 .justify-center { justify-content: center; }
 .align-center { align-items: center; }
 /* Updated: 202512171713 */
+.d-flex { display: flex; }
+.justify-center { justify-content: center; }
+.align-center { align-items: center; }
+/* Updated: 202512181838 */
