@@ -487,3 +487,6 @@
 .justify-center { justify-content: center; }
 .align-center { align-items: center; }
 /* Updated: 202602261450 */
+.m-auto { margin: auto; }
+.text-center { text-align: center; }
+/* Updated: 202602271024 */
