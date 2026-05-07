@@ -617,3 +617,7 @@
 .justify-center { justify-content: center; }
 .align-center { align-items: center; }
 /* Updated: 202605061100 */
+.d-flex { display: flex; }
+.justify-center { justify-content: center; }
+.align-center { align-items: center; }
+/* Updated: 202605071906 */
