@@ -472,3 +472,5 @@ const formatLongDate = (date) => new Date(date).toLocaleDateString('en-US', { we
 /* Updated: 202606151941 */
 const formatLongDate = (date) => new Date(date).toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 /* Updated: 202606171835 */
+const formatLongDate = (date) => new Date(date).toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+/* Updated: 202606182048 */
